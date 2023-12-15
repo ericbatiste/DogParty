@@ -49,7 +49,7 @@ body {
 }
 
 .banner {
-    background-image: url('/images/park.jpg');
+    background-image: url('../../images/park.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 45px 0px;
